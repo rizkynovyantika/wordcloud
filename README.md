@@ -164,5 +164,7 @@ berikut ini adalah hasil dari styling word cloud yang telah dibuat.
 
 
 author: "Rizky D. Novyantika"
+
 title: "How to Create Stylist Word Cloud Using Python"
+
 link : https://rizkynovyantika.github.io/post/how-to-create-stylist-word-cloud-using-python/ 
