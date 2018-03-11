@@ -1,8 +1,3 @@
----
-author: "Rizky D. Novyantika"
-title: "How to Create Stylist Word Cloud Using Python"
----
-
 # Create Stylist Word Cloud Using Python
 ## What is Word Cloud?
 
@@ -82,7 +77,7 @@ for words in frequency_list:
 
 Berikut ini adalah gambar hasil dari perhitungan kata dalam data teks.
 
-![Word Cloud](/images/create-stylist-word-cloud-using-python/1.png)
+![Word Cloud](https://rizkynovyantika.github.io/images/create-stylist-word-cloud-using-python/1.png)
 
 ## Creating Word Cloud
 Nah, ini dia tahap inti dari artikel ini yaitu pembuatan word cloud.
@@ -110,13 +105,13 @@ plt.show()
 ```
 Berikut ini adalah gambar hasil word cloud data teks.
 
-![Word Cloud](/images/create-stylist-word-cloud-using-python/2.png)
+![Word Cloud](https://rizkynovyantika.github.io/images/create-stylist-word-cloud-using-python/2.png)
 
 
 ## Styling Word Cloud
 Untuk membuat word cloud menjadi lebih menarik, kita dapat mengubah word cloud tersebut dengan berbagai bentuk yang kita inginkan. Dalam hal ini saya ingin membuat word cloud dengan tema pekerjaan. Dengan gambar asli seperti dibawah ini :
 
-![Word Cloud](/images/create-stylist-word-cloud-using-python/3.png)
+![Word Cloud](https://rizkynovyantika.github.io/images/create-stylist-word-cloud-using-python/3.png)
  
 Berikut ini adalah syntax yang dapat digunakan untuk mengubah style dari word cloud.
 
@@ -160,9 +155,14 @@ plt.show()
 
 Output dari style word cloud yang dibuat menggunakan syntax diatas adalah sebagai berikut :
 
-![Word Cloud](/images/create-stylist-word-cloud-using-python/4.png)
+![Word Cloud](https://rizkynovyantika.github.io/images/create-stylist-word-cloud-using-python/4.png)
 
 gambar tersebut dapat disimpan dengan menggunakan format .png 
 berikut ini adalah hasil dari styling word cloud yang telah dibuat.
 
-![Word Cloud](/images/create-stylist-word-cloud-using-python/5.png)
+![Word Cloud](https://rizkynovyantika.github.io/images/create-stylist-word-cloud-using-python/5.png)
+
+
+author: "Rizky D. Novyantika"
+title: "How to Create Stylist Word Cloud Using Python"
+link : https://rizkynovyantika.github.io/post/how-to-create-stylist-word-cloud-using-python/ 
